@@ -53,8 +53,8 @@
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
-Storage
-=======
+Storage Needs
+=============
 
 Storage for the TTS is spread across the Kubernetes (pillan) cluster and the bare metal machines supporting application deployment.
 The sections below will break down the needs for each component.
